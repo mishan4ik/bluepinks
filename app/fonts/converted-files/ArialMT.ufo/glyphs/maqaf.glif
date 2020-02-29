@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="maqaf" format="2">
+  <advance width="784"/>
+  <unicode hex="05BE"/>
+  <outline>
+    <contour>
+      <point x="125" y="901" type="line"/>
+      <point x="125" y="1061" type="line"/>
+      <point x="659" y="1061" type="line"/>
+      <point x="659" y="901" type="line"/>
+    </contour>
+  </outline>
+</glyph>

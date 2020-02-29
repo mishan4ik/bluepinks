@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gimeldagesh" format="2">
+  <advance width="817"/>
+  <unicode hex="FB32"/>
+  <outline>
+    <component base="gimel"/>
+    <component base="dagesh" xOffset="-31" yOffset="70"/>
+  </outline>
+</glyph>

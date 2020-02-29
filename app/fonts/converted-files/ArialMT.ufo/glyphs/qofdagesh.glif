@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qofdagesh" format="2">
+  <advance width="1126"/>
+  <unicode hex="FB47"/>
+  <outline>
+    <component base="qof"/>
+    <component base="dagesh" xOffset="200"/>
+  </outline>
+</glyph>

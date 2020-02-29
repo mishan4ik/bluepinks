@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="invbullet" format="2">
+  <advance width="1237"/>
+  <unicode hex="25D8"/>
+  <outline>
+    <contour>
+      <point x="128" y="0" type="line"/>
+      <point x="128" y="980" type="line"/>
+      <point x="1108" y="980" type="line"/>
+      <point x="1108" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="618" y="692" type="qcurve" smooth="yes"/>
+      <point x="534" y="692"/>
+      <point x="416" y="574"/>
+      <point x="416" y="490" type="qcurve" smooth="yes"/>
+      <point x="416" y="407"/>
+      <point x="535" y="288"/>
+      <point x="618" y="288" type="qcurve" smooth="yes"/>
+      <point x="702" y="288"/>
+      <point x="820" y="407"/>
+      <point x="820" y="490" type="qcurve" smooth="yes"/>
+      <point x="820" y="574"/>
+      <point x="702" y="692"/>
+    </contour>
+  </outline>
+</glyph>

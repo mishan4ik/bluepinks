@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shinshindot" format="2">
+  <advance width="1422"/>
+  <unicode hex="FB2A"/>
+  <outline>
+    <component base="shin"/>
+    <component base="holam" xOffset="893"/>
+  </outline>
+</glyph>

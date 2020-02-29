@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vavdagesh" format="2">
+  <advance width="587"/>
+  <unicode hex="FB35"/>
+  <outline>
+    <contour>
+      <point x="432" y="1061" type="line"/>
+      <point x="432" y="0" type="line"/>
+      <point x="238" y="0" type="line"/>
+      <point x="238" y="1061" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="662" type="qcurve" smooth="yes"/>
+      <point x="106" y="662"/>
+      <point x="143" y="642"/>
+      <point x="168" y="604"/>
+      <point x="168" y="578" type="qcurve" smooth="yes"/>
+      <point x="168" y="554"/>
+      <point x="146" y="516"/>
+      <point x="108" y="494"/>
+      <point x="84" y="494" type="qcurve" smooth="yes"/>
+      <point x="53" y="494"/>
+      <point x="0" y="537"/>
+      <point x="0" y="578" type="qcurve" smooth="yes"/>
+      <point x="0" y="602"/>
+      <point x="22" y="639"/>
+      <point x="60" y="662"/>
+    </contour>
+  </outline>
+</glyph>

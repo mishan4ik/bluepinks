@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="finalkaf" format="2">
+  <advance width="1043"/>
+  <unicode hex="05DA"/>
+  <outline>
+    <contour>
+      <point x="40" y="1051" type="line"/>
+      <point x="194" y="1073"/>
+      <point x="322" y="1073" type="qcurve" smooth="yes"/>
+      <point x="620" y="1073"/>
+      <point x="898" y="846"/>
+      <point x="898" y="573" type="qcurve" smooth="yes"/>
+      <point x="898" y="-408" type="line"/>
+      <point x="707" y="-408" type="line"/>
+      <point x="707" y="522" type="line" smooth="yes"/>
+      <point x="707" y="695"/>
+      <point x="618" y="841"/>
+      <point x="434" y="907"/>
+      <point x="312" y="907" type="qcurve" smooth="yes"/>
+      <point x="204" y="907"/>
+      <point x="56" y="887" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

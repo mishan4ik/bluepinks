@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadieresistonos" format="2">
+  <advance width="455"/>
+  <unicode hex="0390"/>
+  <outline>
+    <contour>
+      <point x="137" y="0" type="line"/>
+      <point x="137" y="1062" type="line"/>
+      <point x="317" y="1062" type="line"/>
+      <point x="317" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="1507" type="line"/>
+      <point x="419" y="1507" type="line"/>
+      <point x="219" y="1230" type="line"/>
+      <point x="102" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="418" y="1422" type="line"/>
+      <point x="591" y="1422" type="line"/>
+      <point x="591" y="1230" type="line"/>
+      <point x="418" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="-136" y="1422" type="line"/>
+      <point x="37" y="1422" type="line"/>
+      <point x="37" y="1230" type="line"/>
+      <point x="-136" y="1230" type="line"/>
+    </contour>
+  </outline>
+</glyph>

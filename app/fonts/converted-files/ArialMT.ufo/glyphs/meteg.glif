@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="meteg" format="2">
+  <advance width="682"/>
+  <unicode hex="05BD"/>
+  <outline>
+    <contour>
+      <point x="289" y="-51" type="line"/>
+      <point x="393" y="-51" type="line"/>
+      <point x="393" y="-431" type="line"/>
+      <point x="289" y="-431" type="line"/>
+    </contour>
+  </outline>
+</glyph>

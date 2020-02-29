@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aleflamed" format="2">
+  <advance width="1179"/>
+  <unicode hex="FB4F"/>
+  <outline>
+    <contour>
+      <point x="1124" y="0" type="line"/>
+      <point x="888" y="0" type="line"/>
+      <point x="483" y="573" type="line"/>
+      <point x="390" y="522"/>
+      <point x="372" y="367" type="qcurve" smooth="yes"/>
+      <point x="329" y="0" type="line"/>
+      <point x="131" y="0" type="line"/>
+      <point x="174" y="367" type="line" smooth="yes"/>
+      <point x="204" y="623"/>
+      <point x="382" y="713" type="qcurve"/>
+      <point x="248" y="901" type="line"/>
+      <point x="60" y="901" type="line"/>
+      <point x="60" y="1466" type="line"/>
+      <point x="250" y="1466" type="line"/>
+      <point x="250" y="1061" type="line"/>
+      <point x="370" y="1061" type="line"/>
+      <point x="710" y="586" type="line"/>
+      <point x="772" y="627"/>
+      <point x="822" y="736"/>
+      <point x="835" y="848" type="qcurve" smooth="yes"/>
+      <point x="860" y="1061" type="line"/>
+      <point x="1058" y="1061" type="line"/>
+      <point x="1034" y="842" type="line" smooth="yes"/>
+      <point x="1017" y="686"/>
+      <point x="909" y="511"/>
+      <point x="806" y="449" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

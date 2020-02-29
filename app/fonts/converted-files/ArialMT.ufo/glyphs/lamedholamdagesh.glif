@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamedholamdagesh" format="2">
+  <advance width="948"/>
+  <unicode hex="E805"/>
+  <outline>
+    <component base="lamed"/>
+    <component base="holam" xOffset="-417"/>
+    <component base="dagesh" xOffset="-22" yOffset="57"/>
+  </outline>
+</glyph>

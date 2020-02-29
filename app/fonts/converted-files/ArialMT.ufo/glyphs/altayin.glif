@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="altayin" format="2">
+  <advance width="1096"/>
+  <unicode hex="FB20"/>
+  <outline>
+    <contour>
+      <point x="951" y="780" type="line" smooth="yes"/>
+      <point x="934" y="308"/>
+      <point x="673" y="0"/>
+      <point x="439" y="0" type="qcurve" smooth="yes"/>
+      <point x="45" y="0" type="line"/>
+      <point x="45" y="160" type="line"/>
+      <point x="321" y="160" type="line"/>
+      <point x="144" y="1061" type="line"/>
+      <point x="345" y="1061" type="line"/>
+      <point x="507" y="158" type="line"/>
+      <point x="745" y="225"/>
+      <point x="758" y="696" type="qcurve" smooth="yes"/>
+      <point x="768" y="1061" type="line"/>
+      <point x="961" y="1061" type="line"/>
+    </contour>
+  </outline>
+</glyph>

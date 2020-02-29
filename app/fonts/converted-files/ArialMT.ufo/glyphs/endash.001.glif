@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash.001" format="2">
+  <advance width="1139"/>
+  <outline>
+    <contour>
+      <point x="-4" y="458" type="line"/>
+      <point x="-4" y="603" type="line"/>
+      <point x="1135" y="603" type="line"/>
+      <point x="1135" y="458" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edotbelow" format="2">
+  <advance width="1366"/>
+  <unicode hex="1EB8"/>
+  <outline>
+    <component base="E.001"/>
+    <component base="uniF02C" xOffset="860"/>
+  </outline>
+</glyph>

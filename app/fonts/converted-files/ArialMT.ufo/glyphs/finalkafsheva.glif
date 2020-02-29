@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="finalkafsheva" format="2">
+  <advance width="1043"/>
+  <unicode hex="E802"/>
+  <outline>
+    <component base="finalkaf"/>
+    <component base="sheva" xOffset="8" yOffset="502"/>
+  </outline>
+</glyph>

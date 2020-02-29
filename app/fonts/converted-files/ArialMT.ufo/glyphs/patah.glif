@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="patah" format="2">
+  <advance width="682"/>
+  <unicode hex="05B7"/>
+  <outline>
+    <contour>
+      <point x="140" y="-315" type="line"/>
+      <point x="140" y="-211" type="line"/>
+      <point x="542" y="-211" type="line"/>
+      <point x="542" y="-315" type="line"/>
+    </contour>
+  </outline>
+</glyph>

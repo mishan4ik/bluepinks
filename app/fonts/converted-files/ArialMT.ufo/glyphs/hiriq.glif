@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hiriq" format="2">
+  <advance width="682"/>
+  <unicode hex="05B4"/>
+  <outline>
+    <contour>
+      <point x="341" y="-201" type="qcurve" smooth="yes"/>
+      <point x="365" y="-201"/>
+      <point x="403" y="-223"/>
+      <point x="425" y="-261"/>
+      <point x="425" y="-285" type="qcurve" smooth="yes"/>
+      <point x="425" y="-309"/>
+      <point x="403" y="-346"/>
+      <point x="365" y="-369"/>
+      <point x="341" y="-369" type="qcurve" smooth="yes"/>
+      <point x="317" y="-369"/>
+      <point x="279" y="-346"/>
+      <point x="257" y="-309"/>
+      <point x="257" y="-285" type="qcurve" smooth="yes"/>
+      <point x="257" y="-254"/>
+      <point x="300" y="-201"/>
+    </contour>
+  </outline>
+</glyph>

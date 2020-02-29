@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="revlogicalnot" format="2">
+  <advance width="1196"/>
+  <unicode hex="2310"/>
+  <outline>
+    <contour>
+      <point x="113" y="424" type="line"/>
+      <point x="113" y="1030" type="line"/>
+      <point x="1081" y="1030" type="line"/>
+      <point x="1081" y="862" type="line"/>
+      <point x="283" y="862" type="line"/>
+      <point x="283" y="424" type="line"/>
+    </contour>
+  </outline>
+</glyph>

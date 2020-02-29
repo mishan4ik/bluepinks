@@ -1,0 +1,25 @@
+@font-face {
+  font-family: '9041';
+  src: url('9041.eot');
+  src: url('9041.eot?#iefix') format('embedded-opentype'),
+       url('9041.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: '';
+  src: ;
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ArialMT';
+  src: url('ArialMT.svg#ArialMT') format('svg'),
+       url('ArialMT.ttf') format('truetype'),
+       url('ArialMT.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="musicalnotedbl" format="2">
+  <advance width="1536"/>
+  <unicode hex="266B"/>
+  <outline>
+    <contour>
+      <point x="534" y="1271" type="line"/>
+      <point x="1330" y="1519" type="line"/>
+      <point x="1330" y="411" type="line" smooth="yes"/>
+      <point x="1330" y="287"/>
+      <point x="1267" y="161"/>
+      <point x="1116" y="79"/>
+      <point x="1021" y="79" type="qcurve" smooth="yes"/>
+      <point x="912" y="79"/>
+      <point x="782" y="204"/>
+      <point x="782" y="303" type="qcurve" smooth="yes"/>
+      <point x="782" y="403"/>
+      <point x="936" y="548"/>
+      <point x="1058" y="548" type="qcurve" smooth="yes"/>
+      <point x="1098" y="548"/>
+      <point x="1159" y="534"/>
+      <point x="1228" y="505" type="qcurve"/>
+      <point x="1228" y="1229" type="line"/>
+      <point x="633" y="1044" type="line"/>
+      <point x="633" y="208" type="line" smooth="yes"/>
+      <point x="633" y="87"/>
+      <point x="569" y="-48"/>
+      <point x="413" y="-128"/>
+      <point x="321" y="-128" type="qcurve" smooth="yes"/>
+      <point x="212" y="-128"/>
+      <point x="85" y="-5"/>
+      <point x="85" y="94" type="qcurve" smooth="yes"/>
+      <point x="85" y="199"/>
+      <point x="237" y="342"/>
+      <point x="360" y="342" type="qcurve" smooth="yes"/>
+      <point x="438" y="342"/>
+      <point x="534" y="296" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

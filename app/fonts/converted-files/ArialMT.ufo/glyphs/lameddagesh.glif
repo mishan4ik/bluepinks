@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lameddagesh" format="2">
+  <advance width="948"/>
+  <unicode hex="FB3C"/>
+  <outline>
+    <component base="lamed"/>
+    <component base="dagesh" xOffset="31" yOffset="57"/>
+  </outline>
+</glyph>

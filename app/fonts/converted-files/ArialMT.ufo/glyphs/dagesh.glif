@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagesh" format="2">
+  <advance width="682"/>
+  <unicode hex="05BC"/>
+  <outline>
+    <contour>
+      <point x="341" y="662" type="qcurve" smooth="yes"/>
+      <point x="371" y="662"/>
+      <point x="425" y="618"/>
+      <point x="425" y="578" type="qcurve" smooth="yes"/>
+      <point x="425" y="542"/>
+      <point x="376" y="494"/>
+      <point x="341" y="494" type="qcurve" smooth="yes"/>
+      <point x="317" y="494"/>
+      <point x="279" y="516"/>
+      <point x="257" y="553"/>
+      <point x="257" y="578" type="qcurve" smooth="yes"/>
+      <point x="257" y="609"/>
+      <point x="300" y="662"/>
+    </contour>
+  </outline>
+</glyph>

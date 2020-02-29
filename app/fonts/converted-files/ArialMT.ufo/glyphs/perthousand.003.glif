@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand.003" format="2">
+  <advance width="1234"/>
+  <outline>
+    <contour>
+      <point x="28" y="-296" type="line"/>
+      <point x="28" y="148" type="line"/>
+      <point x="127" y="148" type="line"/>
+      <point x="243" y="334"/>
+      <point x="337" y="783"/>
+      <point x="337" y="1146" type="qcurve" smooth="yes"/>
+      <point x="337" y="1283" type="line"/>
+      <point x="1031" y="1283" type="line"/>
+      <point x="1031" y="148" type="line"/>
+      <point x="1179" y="148" type="line"/>
+      <point x="1179" y="-296" type="line"/>
+      <point x="981" y="-296" type="line"/>
+      <point x="981" y="0" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="226" y="-296" type="line"/>
+    </contour>
+    <contour>
+      <point x="833" y="148" type="line"/>
+      <point x="833" y="1135" type="line"/>
+      <point x="534" y="1135" type="line"/>
+      <point x="534" y="1104" type="line" smooth="yes"/>
+      <point x="534" y="490"/>
+      <point x="347" y="148" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

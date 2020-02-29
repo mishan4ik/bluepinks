@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rafe" format="2">
+  <advance width="682"/>
+  <unicode hex="05BF"/>
+  <outline>
+    <contour>
+      <point x="140" y="1251" type="line"/>
+      <point x="140" y="1355" type="line"/>
+      <point x="542" y="1355" type="line"/>
+      <point x="542" y="1251" type="line"/>
+    </contour>
+  </outline>
+</glyph>

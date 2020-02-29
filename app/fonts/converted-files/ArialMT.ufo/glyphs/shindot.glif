@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shindot" format="2">
+  <advance width="682"/>
+  <unicode hex="05C1"/>
+  <outline>
+    <contour>
+      <point x="863" y="1351" type="qcurve" smooth="yes"/>
+      <point x="904" y="1351"/>
+      <point x="947" y="1298"/>
+      <point x="947" y="1266" type="qcurve" smooth="yes"/>
+      <point x="947" y="1244"/>
+      <point x="929" y="1208"/>
+      <point x="890" y="1182"/>
+      <point x="863" y="1182" type="qcurve" smooth="yes"/>
+      <point x="828" y="1182"/>
+      <point x="779" y="1231"/>
+      <point x="779" y="1266" type="qcurve" smooth="yes"/>
+      <point x="779" y="1307"/>
+      <point x="833" y="1351"/>
+    </contour>
+  </outline>
+</glyph>

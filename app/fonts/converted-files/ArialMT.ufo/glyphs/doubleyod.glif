@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doubleyod" format="2">
+  <advance width="1010"/>
+  <unicode hex="05F2"/>
+  <outline>
+    <contour>
+      <point x="855" y="1061" type="line"/>
+      <point x="855" y="512" type="line"/>
+      <point x="660" y="512" type="line"/>
+      <point x="660" y="1061" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="1061" type="line"/>
+      <point x="350" y="512" type="line"/>
+      <point x="155" y="512" type="line"/>
+      <point x="155" y="1061" type="line"/>
+    </contour>
+  </outline>
+</glyph>

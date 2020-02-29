@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamedholam" format="2">
+  <advance width="948"/>
+  <unicode hex="E804"/>
+  <outline>
+    <component base="lamed"/>
+    <component base="holam" xOffset="-417"/>
+  </outline>
+</glyph>
